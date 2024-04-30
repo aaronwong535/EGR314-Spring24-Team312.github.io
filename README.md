@@ -139,7 +139,7 @@ Regarding the power budget, the estimated operation time of product is approxima
 _Table 3: Power Budget Table_
 
 
-### Hardware Implementation
+## Hardware Implementation
 ![](https://github.com/aaronwong535/EGR314-Spring24-Team312.github.io/blob/main/Screenshot%202024-04-30%20010550.png)
 
 Voltage regulation consists 3.3 V rail. The battery voltage (9V) satisfies the voltage requirement for the motor power while the 3.3V rail powers the rest of the product components. The voltage regulator also consists of a fuse. The inclusion of a fuse and the separation of voltage regulators should allow for a safer design for users to avoid using drop voltage methods that may heat up more than anticipated. This also adds an additional separation that may avoid a power surge between those two rails.
@@ -163,7 +163,7 @@ If I can create the second version of hardware design, I will：
 * Add a camera in front of the car to collect data in front of the car for machine learning
 
 
-### Software Implementation
+## Software Implementation
 ![](https://github.com/aaronwong535/EGR314-Spring24-Team312.github.io/blob/main/Screenshot%202024-04-30%20010538.png)
 
 Initially at the main function, an initialize system is required to initialize the starting variables.  Under the initialize system, we require initializing a starter value for the temperature and humidity user settings. These will change depending on the user inputs. Then, initializing the actual humidity and temperature raw data in order to store the receiving data from the sensor. Finally the motor state will also be initialized in order to account for the output of when it will be activated.
@@ -185,7 +185,7 @@ If I can create the second version of software design, I will：
 * Apply machine learning (ML) to achieve autopilot
 
 
-### Lesson Learned
+## Lesson Learned
 * Learn about how to use GitHub to post a website like this
 * Flux is a good friend when soldering, especially with surface-mount small pads 
 * Code in MPLAB, it’s easier to use than PSoC and I can save a lot of time on top design, but be careful for all settings
@@ -199,7 +199,7 @@ If I can create the second version of software design, I will：
 * Work on the project with all subsystems by myself in 5 weeks
 
 
-### Recomendation for Future Students
+## Recomendation for Future Students
 * Read datasheets carefully, since they contain all the information that you would need to design your circuit around that component, and pay attention to special pointers.
 * Don't be afraid to ask questions to either the professor, the TAs, or even other students. This is a difficult class and you’re not expected to know everything at the start; you are here to learn.
 * If you can buy your own soldering kit that has a finer point than the ones in class. The finer point makes soldering your PCB board worlds easier; it helps to get into those smaller areas.
