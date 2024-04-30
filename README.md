@@ -1,9 +1,7 @@
-Home
----
-### Arizona State University | EGR314 Embedded Systems Design Project II (Spring 2024) | Dr. Nichols
-#### Created: 1/26/2024 (Last updated: 4/29/2024)
-
 # Team312 - Weather Car Kit
+### Arizona State University | EGR314 Embedded Systems Design Project II (Spring 2024) | Dr. Nichols
+#### Created: 4/28/2024
+
 Team Folder: https://drive.google.com/drive/u/0/folders/1KPCw2cV3fNMRF2c39YbxHCWmRoh7PTGd
 
 
