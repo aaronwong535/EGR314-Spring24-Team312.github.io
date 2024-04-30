@@ -44,10 +44,78 @@ In planning our weather station, we grouped the things users wanted into differe
 To rank the needs for our weather station project, we first gathered all the things users wanted. Then, we had a meeting with our team to talk about each need. We discussed which ones were most important based on how they would affect users and how hard they were to do. We also asked other people for their opinions to make sure we didn't miss anything. We used a system to give each need a score to show how important it was. This helped us focus on the most important things first, making sure we met the most critical requirements for our project to succeed. More details in Appendix B. These ranking processes allowed us to create a Product Requirements Document for guidance in developing a product.
 
 
+## Product Requirements 
+### Introduction
+In the quest for the car kit for children, ease to assemble, safety and accuracy are key. It has a very simple structure that children can easily to build it. While professional weather stations have highly precise sensors for weather forecasting, there's a chance to bring similar accuracy and ease to the toy like this. Mobile apps help us understand outdoor weather and control the car to move. In that case, children can detect the weather data while they’re driving.
+
+### Objective
+The project plans to involve the development of a weather station for these demands to a wider public. With the inclusion of 1 sensor for a mobile weather station, the product is intended to collect and transfer data over WiFi using the MQTT protocol. The project also intends to include at least 1 actuator in the form of a motor and communicate commands over a I2C or SPI-based protocol. Functionality of the motor controlled actuator will remain of high importance in this project for successful sensor readings. We aim to maintain similar accuracy to competitors in the weather sensing market which includes the durability they are known for as well. 
+
+### Stakeholders
+#### Target group
+Children, or people who's interested in engineering, weather detecting, etc. 
+
+#### Customer service
+It would be a durable and simple interface as well as user friendly and safe design.
+
+#### Marketing
+A lot of kids are interested in engineering field and astronomy, which is a good choice to start.
+
+### Use Cases
+User Story #1: Mark
+Mark is a 45 year old farmer a few hours from the city of Phoenix. Storms and especially in the monsoon season are aspects in weather he needs to be immediately aware of for the optimal care of his crops and ease of his work. Some information may get to him later than others due to his distance. The new weather station our team develops allows for immediate access to environmental data to his current surroundings rather than approximations.
+
+User Story #2: Sarah
+Sarah, a 35-year-old architect in Denver, faces dry climate challenges in her home office. Living a bit away from the city center, she lacks immediate weather updates. Our team's smart humidifier provides real-time, location-specific humidity data, helping her maintain comfort and focus without relying on generalized forecasts.
+
+User Story #3: Jake
+Introducing Jake, a 45-year-old farmer situated just outside Phoenix. For Jake, swift access to precise weather data is essential, especially during the monsoon season, to effectively manage his crops and workload. Our team's innovative weather station ensures Jake receives real-time updates tailored to his location, enabling him to make informed decisions promptly for optimal farm care and productivity.
+
+### Aspects
+#### 1. Hardware/Product Design
+1.1 The product will be durable to withstand indoor conditions, reasonable impacts and ensure longevity.
+
+1.2 The product will have a user-friendly design for ease of use.
+
+1.3 The product will be able to sustain a substantial amount of force for durability.
+
+1.4 The product will be designed to prevent water damage and ensure safety during operation, providing peace of mind for indoor use.
+
+#### 2. Software/Functionality
+2.1 Environmental data will be transferred over WiFi using the MQTT protocol.
+
+2.2 The product will include at least one motor controlled by a motor controller using I2C or SPI-based protocol.
+
+2.3 The product can be controlled manually and automatically.
+
+#### 3. Interactivity & User Interactivity
+3.1 The main user interface will be reasonably operational.
+
+3.2 The product will have armor that can be easily maintained by the user.
+
+3.3 The product will be easily cleaned and maintained by the user.
+
+3.4 Battery powered models will have batteries replaceable/rechargeable by the user.
+
+3.5 The humidifier will feature intuitive controls and a user-friendly interface for effortless operation and personalized comfort.
+
+#### 4. Manufacturing
+4.1 The product will remain within the course budget.
+
+4.2 The product’s case should be easily assembled and removable by the user for replaceability.
+
+#### 5. Safety
+5.1 The product will remain safe for pets and children to approach safely.
+
+5.2 All wiring will remain enclosed and water resistant.
+
+5.3 Temperature conditions should not affect or compromise the encasing of the product.
+
+
 ## Design Ideation
 ![Figure 4](https://github.com/aaronwong535/EGR314-Spring24-Team312.github.io/blob/main/Screenshot%202024-04-30%20005606.png)
 
-In this assignment, we have organized those ideas in a brainstorm session, where we listed sticky notes. First, we brainstormed on our own, then we shared our ideas in a discussion and generated more ideas. Together, we have generated around 100 different ideas for features on our product, which can be seen in Figure 4. Then I generate some drawings in following design concepts.
+In this assignment, we have organized those ideas in a brainstorm session, where we listed sticky notes. First, we brainstormed on our own, then we shared our ideas in a discussion and generated more ideas. Together, we have generated around 100 different ideas for features on our product, which can be seen in Figure 4. Then I generate some drawings in following design concepts. More details are in Appendix C.
 
 
 ### Concept 1: Rotating Weather Station
