@@ -25,9 +25,6 @@ Weather stations data collection has been a tool that has benefited many outdoor
 ### Mission Statement
 Bringing a kit car with a sensor detecting the weather. It’s meaningful for children to have a kit like that for engineering and astronomy education. 
 
-### Roles and Responsibilities
-![Table 1](https://github.com/aaronwong535/EGR314-Spring24-Team312.github.io/blob/main/Table%201%20.png)
-
 Since there's only me in the team, so I would take response for every role. More information about the team will be present in Appendix 1.
 
 ## User Needs and Benchmarking
