@@ -31,7 +31,8 @@ Since there's only me in the team, so I would take response for every role. More
 We begin developing ideas by identifying the voice of the customer and benchmarking most of those aspects to explicit and latent needs. The list of researched products in Appendix (B)  incorporates seven products we found interesting and gathered feedback from those users.
 
 During our brainstorming sessions, we used both mind mapping and Jamboard to gather and record all the user needs for our weather station project. We began by creating a mind map to explore different aspects of the project and generate ideas. Then, as ideas flowed, we transferred them onto the Jamboard, which allowed us to collaborate in real-time and visually organize our thoughts. Each team member contributed their insights, and together, we evaluated the importance of each user's needs. By combining mind mapping with Jamboard, we ensured that we thoroughly explored all possibilities and captured every important aspect of the project. This approach helped us create a comprehensive list of user needs, which became the foundation for our design and development process.
-![Figure 1](https://github.com/aaronwong535/EGR314-Spring24-Team312.github.io/blob/main/Figure%201.png)
+![image](https://github.com/aaronwong535/EGR314-Spring24-Team312.github.io/assets/157059818/d5987f68-4943-4fed-ab83-fc70b0fd3888)
+
 
 _Figure 1: Organized needs_
 
